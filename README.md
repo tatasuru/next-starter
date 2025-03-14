@@ -90,3 +90,7 @@ To use Docker, make sure Docker is installed on your machine. Then, build and ru
 docker build . -t nextjs-starter-tailwind
 docker run -p 3000:3000 nextjs-starter-tailwind
 ```
+
+### Husky
+
+REF: [setup husky](https://zenn.dev/risu729/articles/latest-husky-lint-staged)
